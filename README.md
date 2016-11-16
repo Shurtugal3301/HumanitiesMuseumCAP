@@ -1,4 +1,4 @@
-# HumanitiesMuseumCAP
+# Humanities Museum CAP
 For the Humanities CAP
 
 Andriod Sudio GitHub Download
